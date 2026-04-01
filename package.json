@@ -1,0 +1,9 @@
+{
+  "name": "mtoto-wa-nyota",
+  "version": "1.0.0",
+  "description": "Mtoto Wa Nyota - Stillbirth Remembrance & Family Support",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
